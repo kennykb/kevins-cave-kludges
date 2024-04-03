@@ -4,7 +4,7 @@
 
 | File name         | Description                                            |
 | ----------------- | ------------------------------------------------------ |
-| `READNE,md`       | This file                                              |
+| `README.md`       | This file                                              |
 | `calculations.py` | Python script that calculates voltages and currents    |
 | `noise0.pdf`      | Schematic for the quick-and-dirty noise generator      |
 | `kicad/`          | Directory containing the KiCAD files for the schematic |
