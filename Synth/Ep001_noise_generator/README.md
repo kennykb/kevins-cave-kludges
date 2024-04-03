@@ -2,6 +2,8 @@
 
 ## Files
 
+| File name         | Description                                            |
+| ----------------- | ------------------------------------------------------ |
 | `READNE,md`       | This file                                              |
 | `calculations.py` | Python script that calculates voltages and currents    |
 | `noise0.pdf`      | Schematic for the quick-and-dirty noise generator      |
