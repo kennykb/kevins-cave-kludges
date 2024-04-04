@@ -1,4 +1,4 @@
-# Synthesizer: episode 1: quick-and-dirty noise source
+# Exploring Audio Synthesis: episode 1: quick-and-dirty noise source
 
 ## Files
 
