@@ -11,4 +11,4 @@
 
 ## Video link
 
-[S1E1: Quick and Dirty Noise Generator](https://youtube.com/) TODO: Link goes here
+[S1E1: Quick and Dirty Noise Generator](https://www.youtube.com/watch?v=GJwIduQmdhM) 
