@@ -10,4 +10,4 @@
 
 ## Video link
 
-[S1E2: The Schmitt Trigger](https://www.youtube.com) TODO: Add videp link when video drops
+[S1E2: The Schmitt Trigger](https://youtu.be/GVMxBY-6neM)
