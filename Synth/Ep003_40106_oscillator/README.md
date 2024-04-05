@@ -13,4 +13,4 @@ schematic, and found that the content had mysteriously vanished!
 
 ## Video link
 
-[S1E3: The Schmitt Trigger](https://youtu.be/)
+[S1E3: The Schmitt Trigger](https://youtu.be/VH0WNji5CIQ)
