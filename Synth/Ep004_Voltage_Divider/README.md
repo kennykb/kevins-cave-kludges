@@ -5,8 +5,8 @@
 | File name                | Description                                       |
 | ------------------------ | ------------------------------------------------- |
 | `README.md`              | This file                                         |
-| cheatsheet.pdf           | A cheat-sheet with the formulae from the video    |
-| divider.ods              | A spreadsheet with the commoner formulae          |
+| `cheatsheet.pdf`         | A cheat-sheet with the formulae from the video    |
+| `divider.ods`            | A spreadsheet with the commoner formulae          |
 
 ## Video link
 
