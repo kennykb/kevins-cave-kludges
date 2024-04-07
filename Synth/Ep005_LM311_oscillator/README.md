@@ -16,4 +16,4 @@
 
 ## Video link
 
-[S1E5: LM311 Schmitt trigger oscillator]((https://youtu.be/mYEhulFMMgo)
+[S1E5: LM311 Schmitt trigger oscillator](https://youtu.be/mYEhulFMMgo)
