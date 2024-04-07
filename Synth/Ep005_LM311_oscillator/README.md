@@ -1,4 +1,4 @@
-# Exploring Audio Synthesis: episode 5: LMM311 Schmitt trigger oscillator
+# Exploring Audio Synthesis: episode 5: LM311 Schmitt trigger oscillator
 
 ## Files
 
@@ -16,4 +16,4 @@
 
 ## Video link
 
-[S1E4: The Humble Voltage Divider]((https://youtu.be/mYEhulFMMgo)
+[S1E5: LM311 Schmitt trigger oscillator]((https://youtu.be/mYEhulFMMgo)
