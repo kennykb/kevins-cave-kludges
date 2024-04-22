@@ -14,4 +14,4 @@
 
 ## Video link
 
-[S1E6: Diode bridge oscillator](https://youtu.be/THISSPACEFORRENT)
+[S1E6: Diode bridge oscillator](https://youtu.be/Vp5yTyl9E-I)
