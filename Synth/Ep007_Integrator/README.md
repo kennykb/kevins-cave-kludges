@@ -13,4 +13,4 @@
 
 ## Video link
 
-[S1E7: Integrator](https://youtu.be/9BTkeEvXFtQ)
+[S1E7: Integrator](https://youtu.be/ARGy61ex78M)
