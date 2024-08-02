@@ -7,7 +7,7 @@
 | ------------------- | ------------------------------------------------- |
 | `README.md`         | This file                                         |
 | `MoreVGain/`        | KiCAD files for the breadboarded circuits         |
-| 'MoreVGain.pdf`     | Printable schematics of the breadboarded circuits |
+| `MoreVGain.pdf`     | Printable schematics of the breadboarded circuits |
 
 ## Notes
 
