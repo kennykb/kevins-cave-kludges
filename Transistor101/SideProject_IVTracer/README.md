@@ -6,7 +6,7 @@ or diode.
 
 ## Part 1: Designing the tracer
 
-Video link: [Part 1](https://example.org/this-space-for-rent/)
+Video link: [Part 1](https://youtu.be/jY0oFNUrtkE)
 
 The idea behind the project is to put a voltage ramp into a transistor
 or diode, and measure the voltage going in and the current coming out.
