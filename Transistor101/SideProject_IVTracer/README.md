@@ -18,6 +18,7 @@ episode that follows.
 
 | File name | Description |
 | --------- | ----------- |
+| `schmitt-values.py | Python script to derive the resistor values for the reset circuit |
 | `tracer2/`  | KiCAD project containing the schematics as designed in this part |
 | `tracer2.pdf` | Printable schematic of the circuit, with annotations |
 
