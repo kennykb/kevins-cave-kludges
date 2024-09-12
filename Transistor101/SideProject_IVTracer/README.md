@@ -24,7 +24,7 @@ episode that follows.
 
 ## Part 2: Building and testing the tracer
 
-Video link: [Part 2](https://example.org/this-space-for-rent/)
+Video link: [Part 2](https://youtu.be/3lZiSFd_PLo)
 
 In the second episode, we build the tracer hardware and test out
 the tracer's operation.
@@ -41,7 +41,7 @@ to the schematic along the way.
 
 # Part 3: Software to run the tracer
 
-Video link: [Part 3](https://example.org/this-space-for-rent/)
+Video link: [Part 3](https://youtu.be/oEgC2b7zwU8)
 
 In the third episode, we develop Python software to automate testing
 with the tracer. The target platform is the Rigol DS1054Z oscilloscope.
@@ -56,5 +56,6 @@ in the video, but the fundamental structure is sttll the same.
 | File name | Description |
 | --------- | ----------- |
 | `run_tracer.py` | Python script that runs the oscilloscope with the tracer |
+| 'screencap.py` | Bonus script: save the oscilloscope screen as a PNG image |
 | `tracer4/` | KiCAD project containing the schematic actually used
 | `tracer4.pdf` | Schematic of the tracer actually used for device testing
