@@ -4,7 +4,7 @@ A viewer asked why I don't stock Zener diodes routinely.
 
 I was going to do a quick five-minute reply, but it turned into a deep dive into the workings of IC bandgap voltage references, leading up to building a 7.5 volt low-current supply that achieves 0.1% accuracy over 0-20 mA loads.
 
-The resulting video is [here](https://youtu.be/WHERE).
+The resulting video is [here](https://youtu.be/7RQVgR9cbnY)
 
 Schematic is `voltref.pdf`. KiCAD model is available in the `kicad/` subfolder.
 
