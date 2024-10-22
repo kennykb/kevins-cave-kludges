@@ -39,7 +39,7 @@ to the schematic along the way.
 | `tracer3/` | KiCAD project containing the schematic as modified |
 | `tracer3.pdf` | Printable schematic of the circuit as modified |
 
-# Part 3: Software to run the tracer
+## Part 3: Software to run the tracer
 
 Video link: [Part 3](https://youtu.be/oEgC2b7zwU8)
 
@@ -59,3 +59,22 @@ in the video, but the fundamental structure is sttll the same.
 | 'screencap.py` | Bonus script: save the oscilloscope screen as a PNG image |
 | `tracer4/` | KiCAD project containing the schematic actually used
 | `tracer4.pdf` | Schematic of the tracer actually used for device testing
+
+## Transistors 101 Episode 10: The Shockley Diode Equation
+
+Video link: [Transistors 101, ep10](https://youtu.be/m3V7IBlf0sI)
+
+This video uses the test rig to measure several diodes and demonstrate
+the exponential relationship between forward voltage and forward
+current.
+
+## Transistors 101 Episode 11: The Ebers-Moll model
+
+Video link: [Transistors 101, ep11](https://youtu.be/UJsIV-05194)
+
+This video continues using the test rig to measure a transistor at
+several collector voltages and demonstrate the Ebers-Moll model,
+in which there is an exponential relationshup between a transistor's
+base voltage and its collector current.
+
+
