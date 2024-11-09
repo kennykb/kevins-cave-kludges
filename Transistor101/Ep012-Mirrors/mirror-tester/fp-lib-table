@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TI SOIC-8")(type "KiCad")(uri "/home/kennykb/electronics/kevin-parts/INA823DR/footprints.pretty")(options "")(descr ""))
+)
