@@ -41,7 +41,7 @@ to the schematic along the way.
 
 ## Part 3: Software to run the tracer
 
-Video link: [Part 3](https://youtu.be/oEgC2b7zwU8)
+Video link: [Part 3](https://youtu.be/J99L1XzgOzk)
 
 In the third episode, we develop Python software to automate testing
 with the tracer. The target platform is the Rigol DS1054Z oscilloscope.
