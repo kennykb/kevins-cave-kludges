@@ -6,7 +6,7 @@ the ine inside the Buchla 259 complex waveform generator.
 
 | File | Description |
 | ---- | ----------- |
-| `divider_values.py' | Python script that chooses resistor values for the circuit |
+| `divider_values.py` | Python script that chooses resistor values for the circuit |
 | `README.md` | This file |
 | `tricore/` | Directory containing the KiCAD files for the schematic |
 | `tricore.circuitjs.txt` | CircuitJS model that simulates the oscillator |
