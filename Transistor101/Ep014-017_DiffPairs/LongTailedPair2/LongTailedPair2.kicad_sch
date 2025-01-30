@@ -2097,7 +2097,7 @@
     (effects (font (size 2.54 2.54)) (justify right bottom))
     (uuid b8f255b1-407f-4e72-b087-2087adfa4e6b)
   )
-  (text "This circuit can be breadboarded starting with the\ncircuit from episode 14, removing R4 and replacing it with\nthe current source.  All other subcircuits are unchanged\nbetween the two episodes.\n\nTest first with R2 and R3 in place.\nThen remove R2 and R3 and replace with short circuits.\nObserve that the gain is improved, the CMRR is unchanged,\nthe circuit remains thermally stable,\nbut large signals suffer soft clipping."
+  (text "This circuit can be breadboarded starting eith the\ncircuut from episode 14, removing R4 and replacing it with\nthe current source.  All other subcircuits are unchanged\nbetween the two episodes.\n\nTest first with R2 and R3 in place.\nThen remove R2 and R3 and replace with short circuits.\nObserve that the gain is improved, the CMRR is unchanged,\nthe circuit remains thermally stable,\nbut large signals suffer soft clipping."
     (at 172.72 107.95 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid da92e6ae-d518-4d50-93d5-e8225cffd494)
@@ -2729,10 +2729,10 @@
     (property "Datasheet" "~" (at 160.02 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5ca1c58c-d50c-4372-bb9a-1df16b772861))
+    (pin "1" (uuid 5ca1c58c-d50c-4372-bb9a-1df16b772860))
     (pin "3" (uuid 2bd70b9c-03af-484f-bbe3-c9b28d8fb17a))
-    (pin "6" (uuid b5eca8ad-b79d-4129-8662-a64d7f53b116))
-    (pin "5" (uuid 19a54121-1625-41e0-9602-3b06b0f04b99))
+    (pin "6" (uuid b5eca8ad-b79d-4129-8662-a64d7f53b115))
+    (pin "5" (uuid 19a54121-1625-41e0-9602-3b06b0f04b98))
     (pin "2" (uuid 03f2680d-7550-4b7d-9e3b-b8bdfc78b3c2))
     (pin "4" (uuid f414c5b3-017f-45fe-85e2-132882d9987c))
     (instances
@@ -2814,12 +2814,12 @@
     (property "Datasheet" "~" (at 148.59 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5ca1c58c-d50c-4372-bb9a-1df16b772862))
-    (pin "3" (uuid bc2eca1d-287f-4a18-b1e1-3af3dcf03dc2))
-    (pin "6" (uuid b5eca8ad-b79d-4129-8662-a64d7f53b117))
-    (pin "5" (uuid 19a54121-1625-41e0-9602-3b06b0f04b9a))
-    (pin "2" (uuid 3bf04385-27d7-4045-b848-697c823f065a))
-    (pin "4" (uuid 52ed0313-36cc-4685-8e41-9cc902ff75fe))
+    (pin "1" (uuid 5ca1c58c-d50c-4372-bb9a-1df16b772861))
+    (pin "3" (uuid bc2eca1d-287f-4a18-b1e1-3af3dcf03dc1))
+    (pin "6" (uuid b5eca8ad-b79d-4129-8662-a64d7f53b116))
+    (pin "5" (uuid 19a54121-1625-41e0-9602-3b06b0f04b99))
+    (pin "2" (uuid 3bf04385-27d7-4045-b848-697c823f0659))
+    (pin "4" (uuid 52ed0313-36cc-4685-8e41-9cc902ff75fd))
     (instances
       (project "LongTailedPair2"
         (path "/34683b7f-b708-4c9e-81d6-b812bcdefe67"
