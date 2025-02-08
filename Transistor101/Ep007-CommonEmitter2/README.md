@@ -1,4 +1,4 @@
-# Transistors 101 episode 6: Biasing and Bootstrapping
+# Transistors 101 episode 7: Biasing and Bootstrapping the Common-Emitter Amplifier
 
 ## Files
 
