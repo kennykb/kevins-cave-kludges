@@ -232,7 +232,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "logamp.kicad_pro",
+    "filename": "demo1.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -309,7 +309,7 @@
   },
   "sheets": [
     [
-      "be53f2fd-f282-495f-a2ce-2abafeb0d1e7",
+      "314b9a0a-894d-48a3-9d2c-5f2018126c4f",
       ""
     ]
   ],
