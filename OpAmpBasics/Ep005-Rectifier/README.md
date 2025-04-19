@@ -1,7 +1,7 @@
 # Op-Amp Basics
-## Episode 4: Difference Amplifiers and Inputs Beyond the Rails
+## Episode 5: The Precision Rectifier
 
-Video link: [The Precision Rectifier](https://youtu.be/eFceH_AnqUo)
+Video link: [The Precision Rectifier](https://youtu.be/ywOKMxNxeOA)
 
 _Please join me in supporting the 'Get Fed Up!' campaign at Save the Children._ [Donate here](http://support.savethechildren.org/goto/KevinsCave)
 
