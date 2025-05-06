@@ -1,7 +1,7 @@
 # Op-Amp Basics
 ## Episode 6: Three Circuits, One Idea
 
-Video link: [Three circuits, one idea](https://youtu.be/TBD)
+Video link: [Three circuits, one idea](https://youtu.be/vFuQ36QZQWc)
 
 _Please join me in supporting the 'Get Fed Up!' campaign at Save the Children._ [Donate here](http://support.savethechildren.org/goto/KevinsCave)
 
