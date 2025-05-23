@@ -2,6 +2,7 @@
 ## Episode 6: Three Circuits, One Idea
 
 Video link: [Three circuits, one idea](https://youtu.be/vFuQ36QZQWc)
+Video link: [Peak detector torture tester](/storage/kennykb/Videos/OpAmpBasics/Ep06-Rect-Clamp-PeakDet/)
 
 _Please join me in supporting the 'Get Fed Up!' campaign at Save the Children._ [Donate here](http://support.savethechildren.org/goto/KevinsCave)
 
@@ -19,4 +20,4 @@ rig for the peak detector
 | `demos/`            | Directory containing KiCAD model with schematics |
 | `demos.pdf`         | Printable schematics for the demo circuits |
 | `peak_det_tester/`  | Directory containing KiCAD model for test rig |
-| `peak_det_tester.pdf` | Printable schematif for the test rig |
+| `peak_det_tester.pdf` | Printable schematic for the test rig |
