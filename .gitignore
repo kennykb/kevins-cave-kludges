@@ -1,0 +1,4 @@
+# ignore the KiCAD backup directories
+**/*-backups/
+# ignore Emacs backups
+*~
