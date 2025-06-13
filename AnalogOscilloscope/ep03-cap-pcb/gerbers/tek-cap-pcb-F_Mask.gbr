@@ -1,0 +1,40 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.11+dfsg-1build4*%
+%TF.CreationDate,2025-06-01T15:33:29-04:00*%
+%TF.ProjectId,tek-cap-pcb,74656b2d-6361-4702-9d70-63622e6b6963,A*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Top*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.11+dfsg-1build4) date 2025-06-01 15:33:29*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,4.000000X4.000000*%
+%ADD11C,4.000000*%
+%ADD12C,5.000000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,C1*%
+X122000000Y-101600000D03*
+D11*
+X132000000Y-101600000D03*
+%TD*%
+D12*
+%TO.C,H5*%
+X136525000Y-111125000D03*
+%TD*%
+%TO.C,H4*%
+X117475000Y-111125000D03*
+%TD*%
+%TO.C,H3*%
+X136525000Y-92075000D03*
+%TD*%
+%TO.C,H2*%
+X117475000Y-92075000D03*
+%TD*%
+%TO.C,H1*%
+X127000000Y-93218000D03*
+%TD*%
+M02*
