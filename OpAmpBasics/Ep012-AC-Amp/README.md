@@ -19,4 +19,4 @@ Files:
 
 
 © 2025 Kevin B. Kenny
-CC-BY-SA https://creativecommons.org/licenses/by-sa/4.0/deed.en
+[CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
