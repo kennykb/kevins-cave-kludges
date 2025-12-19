@@ -18,6 +18,7 @@ The CircuitJS model of the integrator can be accessed on
 | File Name | Description |
 | --------- | ----------- |
 | README.md | This file |
+| bode.py   | Python script that produced the Bode plots in the video |
 | differentiator.cjs | CircuitJS model of the differentiator. |
 
 I didn't trouble to draw the differentiator in KiCAD, so there's
