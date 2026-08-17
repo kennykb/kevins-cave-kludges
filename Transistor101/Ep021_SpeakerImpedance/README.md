@@ -2,7 +2,7 @@
 
 ## Episode 21: How Not to Measure Speaker Impedance
 
-[Video link](TBD)
+[Video link](https://youtu.be/kvOlpbUW3jU)
 
 Please help us provide 250 insecticidal nets to prevent malaria! https://www.againstmalaria.com/KevinsCave
 
