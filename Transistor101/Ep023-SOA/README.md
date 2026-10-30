@@ -2,7 +2,7 @@
 
 ## Episode 23: Reactive Loads and the Safe Operating Area
 
-[Video link](https://youtu.be/tTijlXv1dZM)
+[Video link](https://youtu.be/kKXs3nvlnnE)
 
 Please help us provide 250 insecticidal nets to prevent malaria! https://www.againstmalaria.com/KevinsCave
 
